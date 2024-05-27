@@ -1,2 +1,2 @@
 # Clicker
-Clicker open sourse
+it`s just clicker
